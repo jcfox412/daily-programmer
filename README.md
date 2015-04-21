@@ -6,6 +6,7 @@ Given a defined height, width, starting color, and ending color, this creates a 
 Usage
 -------------
 <pre><code>
+	>> bundle install
 	>> ruby gradient.rb
 	Provide 3 lines of input for a new gradient!
 	500 100 # width and height of image
