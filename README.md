@@ -5,10 +5,10 @@ Given a defined height, width, starting color, and ending color, this creates a 
 
 Usage
 -------------
-<code>
+<pre><code>
 	>> ruby gradient.rb
 	Provide 3 lines of input for a new gradient!
 	500 100 # width and height of image
 	0 255 255 # red, green, and blue values of starting color
 	255, 0, 0 # red, green, and blue values of ending color
-</code>
+</code></pre>
